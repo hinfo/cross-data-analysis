@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="hinfo.com.infohealth.Home"
+    android:layout_width="150sp"
+    android:layout_height="150sp">
+
+    <item  android:id="@+id/item1"
+        android:title="Desease Maps"/>
+    <item  android:id="@+id/item2"
+        android:title="Weather Impact"
+        app:showAsAction="withText" />
+
+    <item  android:id="@+id/item3"
+        android:title="Login"/>
+</menu>
